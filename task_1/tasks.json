@@ -1,0 +1,16 @@
+[
+    {
+    "id": 1709501000001,
+    "title": "Finish JavaScript assignment",
+    "priority": "high",
+    "dueDate": "2026-03-10",
+    "completed": false
+  },
+  {
+    "id": 1709501000002,
+    "title": "Prepare database project report",
+    "priority": "medium",
+    "dueDate": "2026-03-15",
+    "completed": false
+  }
+]
